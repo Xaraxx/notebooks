@@ -4,6 +4,16 @@ The repository contains a collection of Jupyter notebooks with FEniCS
 applications.
 
 
+## Viewing and running
+
+These notebooks can be viewed at
+<http://nbviewer.jupyter.org/github/fenics/notebooks/>.
+
+We strive to synchronise notebooks to
+<https://notebooks.azure.com/library/FEniCS>, where you can 'clone'
+your own copy to modify and run.
+
+
 ## License
 
 All text is made available under the Creative Commons
